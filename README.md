@@ -9,4 +9,8 @@ The LEDs animate in a **chasing / running-light pattern**, turning on and off in
 
 <img width="672" alt="JingleTree Routed View" src="https://github.com/user-attachments/assets/5ff37808-b3ce-48ee-a800-675b3acbb0da" />
 
+price:
+<img width="1565" height="892" alt="image" src="https://github.com/user-attachments/assets/0594e52c-ae12-47b4-a735-c85d22b45fa0" />
+
+
 
